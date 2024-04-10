@@ -39,7 +39,7 @@ const tempoObjetivos2=new Date("2024-12-05T00:00:00");
     } else
       return [0,0,0,01];
     }
-  }
+  
 
   function atualizarCronometro(){
      for( let i=0; i<constadores.length;i++){
